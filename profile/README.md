@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.2clabs.tech/"><img src="/profile/assets/2C Labs.png" width="500px" /></a><br>
+<a href="https://www.2clabs.tech/"><img src="/profile/assets/2C Labs.png" width="100px" /></a><br>
 <a href="https://www.devdisplay.org/"><h2 align="center">2C Labs - Creation Company</h2></a><br>
 
 
