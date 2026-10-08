@@ -43,13 +43,13 @@ Research & Development of World-Class Technology and Products from First Princip
       <th>Product Description</th>
    </tr>
    <tr>
-      <td><img src="/profile/assets/FeaturedIn/GSSOC.png" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
-      <td><a href="https://gssoc.girlscript.tech/">RepoXray</a></td>
+      <td><img src="/profile/assets/Repoxray.png" width="200" height="auto" loading="lazy" alt="RepoXray"/></td>
+      <td><a href="https://repoxray.2clabs.tech/">RepoXray</a></td>
       <td>The X-Ray Intelligence Engine for Your Codebase.</td>
    </tr>
    <tr>
-      <td><img src="/profile/assets/FeaturedIn/SWOC.jpg" width="200" height="auto" loading="lazy" alt="swoc"/></td>
-      <td><a href="https://www.socialwinterofcode.com/">Social Winter of Code</a></td>
+      <td><img src="/profile/assets/Deadchain.png" width="200" height="auto" loading="lazy" alt="Deadchain"/></td>
+      <td><a href="https://deadchain.2clabs.tech/">Deadchain</a></td>
       <td>Deadchain is a fast-paced pixel-art combat game where warriors battle across a hostile sci-fi battlefield. Fight through fortified bases, defend strategic positions, destroy enemy forces, and push your way toward victory.</td>
    </tr>
 </table>
