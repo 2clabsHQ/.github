@@ -2,11 +2,10 @@
 
 `Creation Company`<br>
 
-<a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabs.png" width="100px" /></a><br>
+<a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabs.png" width="100px" /></a>
 
-<a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a><br>
-
-<h3 align="center">Research & Development of World-Class Technology and Products from First Principles</h3>
+<a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a>
+Research & Development of World-Class Technology and Products from First Principles
 
 <a href="https://github.com/codeaashu/DevDisplay">
   <img src="https://img.shields.io/badge/Explore%20Contribution%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Contribution Repository">
