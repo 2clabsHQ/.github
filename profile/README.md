@@ -6,13 +6,7 @@
 
 <a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a><br>
 
-# 2C Labs
-
-
-
-Research & Development of World-Class Technology and Products from First Principles
-
-<h2 align="center"> Connect ▸ Collab ▸ Code ▸ Create ▸ Conquer </h2>
+<h3 align="center">Research & Development of World-Class Technology and Products from First Principles</h3>
 
 <a href="https://github.com/codeaashu/DevDisplay">
   <img src="https://img.shields.io/badge/Explore%20Contribution%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Contribution Repository">
