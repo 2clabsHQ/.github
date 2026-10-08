@@ -1,13 +1,10 @@
 <div align="center">
 
-[![Enable GitHub Dark Mode for best view →](https://img.shields.io/badge/Enable%20GitHub%20Dark%20Mode%20For%20Best%20View-Click%20Here-blue?style=for-the-badge&logo=github#gh-light-mode-only)](https://github.com/settings/appearance)
+<a href="https://www.2clabs.tech/"><img src="/profile/assets/2clab.png" width="500px" /></a><br>
+<a href="https://www.devdisplay.org/"><h2 align="center">2C Labs - Creation Company</h2></a><br>
 
-<h1></h1>
 
-<a href="https://www.devdisplay.org/"><img src="/profile/assets/NameTagline.png" width="300px" /></a><br>
-<a href="https://www.devdisplay.org/"><img src="/profile/assets/DDColorLOGO.png" width="500px" /></a><br>
-
-`The First Global Platform for Developers to Fulfill All Their Tech Needs.`<br>
+`Research & Development of World-Class Technology and Products from First Principles`<br>
 
 <h2 align="center"> Connect ▸ Collab ▸ Code ▸ Create ▸ Conquer </h2>
 
