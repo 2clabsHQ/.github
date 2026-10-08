@@ -6,15 +6,11 @@
 
 <a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a>
 Research & Development of World-Class Technology and Products from First Principles
-
-<a href="https://github.com/codeaashu/DevDisplay">
-  <img src="https://img.shields.io/badge/Explore%20Contribution%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Contribution Repository">
-</a><br>
-<img align="center" src="/profile/assets/star.png" width="150px" />
 </div>
 
+---
+
 <div align="center">
-<img align="center" src="/profile/assets/star.png" width="150px" />
   <h1>Connect with 2C Labs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Raising%20Hands.webp" alt="Raising Hands" width="25" height="25" /></h1>
 </div>
 <table align="center">
@@ -36,10 +32,10 @@ Research & Development of World-Class Technology and Products from First Princip
      </tbody>
 </table></div>
 
-<div align="center"><img align="center" src="/profile/assets/star.png" width="150px" /></div>
 
 <h1 align="center">Recents Products<h1>
-<table>
+  
+<h4><table>
 
    <tr>
       <th>Product Logo</th>
@@ -56,6 +52,4 @@ Research & Development of World-Class Technology and Products from First Princip
       <td><a href="https://www.socialwinterofcode.com/">Social Winter of Code</a></td>
       <td>Social Winter Of Code is the 2 month long open source program by Social India , with the aim to introduce more and more people to the world of Open source.</td>
    </tr>
-</table>
-
-<div align="center"><img align="center" src="/profile/assets/star.png" width="150px" /></div><br>
+</table></h4>
