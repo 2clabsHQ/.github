@@ -4,6 +4,8 @@
 
 <a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a><br>
 
+# 2C Labs
+
 `Creation Company`<br>
 
 Research & Development of World-Class Technology and Products from First Principles
