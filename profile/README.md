@@ -6,34 +6,9 @@
 
 <a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a>
 Research & Development of World-Class Technology and Products from First Principles
-</div>
-
----
-
-<div align="center">
-  <h1>Connect with 2C Labs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Raising%20Hands.webp" alt="Raising Hands" width="25" height="25" /></h1>
-</div>
-<table align="center">
-     <thead>
-         <tr>
-            <td><img src="/profile/assets/SocialLogo/X.png" alt="Twitter Logo" width="50"></td>
-            <td><img src="/profile/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td>
-            <td><img src="/profile/assets/SocialLogo/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
-            <td><img src="/profile/assets/SocialLogo/Instagram.png" alt="Instagram Logo" width="50"></td>
-        </tr>
-    </thead>
-     <tbody align="center">
-        <tr border: 2px;>
-            <td><b><a href="https://x.com/2clabs"> Twitter </a></b></td>
-            <td><b><a href="https://discord.gg/chyt2UgTv5"> Discord </a></b></td>
-            <td><b><a href="https://www.linkedin.com/company/2clabshq/"> Linkedin </a></b></td>
-            <td><b><a href="https://www.instagram.com/2clabs/"> Insta. </a></b></td>
-        </tr>
-     </tbody>
-</table></div>
 
 
-<h1 align="center">Recents Products<h1>
+# Recents Products
   
 <h5>
   <table>
@@ -54,3 +29,27 @@ Research & Development of World-Class Technology and Products from First Princip
    </tr>
 </table>
 </h5>
+
+
+# Connect and Create
+
+<table align="center">
+     <thead>
+         <tr>
+            <td><img src="/profile/assets/SocialLogo/X.png" alt="Twitter Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
+            <td><img src="/profile/assets/SocialLogo/Instagram.png" alt="Instagram Logo" width="50"></td>
+        </tr>
+    </thead>
+     <tbody align="center">
+        <tr border: 2px;>
+            <td><b><a href="https://x.com/2clabs"> Twitter </a></b></td>
+            <td><b><a href="https://discord.gg/chyt2UgTv5"> Discord </a></b></td>
+            <td><b><a href="https://www.linkedin.com/company/2clabshq/"> Linkedin </a></b></td>
+            <td><b><a href="https://www.instagram.com/2clabs/"> Insta. </a></b></td>
+        </tr>
+     </tbody>
+</table>
+
+</div>
