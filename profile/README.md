@@ -6,10 +6,9 @@
 
 <a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a>
 Research & Development of World-Class Technology and Products from First Principles
+</div>
 
-
-# Recents Products
-  
+Recents Products
 <h5>
   <table>
    <tr>
@@ -31,8 +30,7 @@ Research & Development of World-Class Technology and Products from First Princip
 </h5>
 
 
-# Connect and Create
-
+Connect and Create
 <table align="center">
      <thead>
          <tr>
@@ -51,5 +49,3 @@ Research & Development of World-Class Technology and Products from First Princip
         </tr>
      </tbody>
 </table>
-
-</div>
