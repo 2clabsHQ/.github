@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabs.png" width="100px" /></a><br>
-<a href="https://www.devdisplay.org/"><h2 align="center">2C Labs<br>Creation Company</h2></a>
+<a href="https://www.devdisplay.org/"><h2 align="center">2C Labs</h2></a><br>Creation Company
 
 
 `Research & Development of World-Class Technology and Products from First Principles`<br>
