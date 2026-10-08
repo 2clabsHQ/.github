@@ -1,12 +1,13 @@
 <div align="center">
 
+`Creation Company`
 <a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabs.png" width="100px" /></a><br>
 
 <a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a><br>
 
 # 2C Labs
 
-`Creation Company`<br>
+
 
 Research & Development of World-Class Technology and Products from First Principles
 
