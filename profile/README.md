@@ -43,7 +43,7 @@ Research & Development of World-Class Technology and Products from First Princip
       <th>Product Description</th>
    </tr>
    <tr>
-      <td><img src="/profile/assets/Repoxray.png" width="200" height="auto" loading="lazy" alt="RepoXray"/></td>
+      <td><img src="/profile/assets/RepoXray.png" width="200" height="auto" loading="lazy" alt="RepoXray"/></td>
       <td><a href="https://repoxray.2clabs.tech/">RepoXray</a></td>
       <td>The X-Ray Intelligence Engine for Your Codebase.</td>
    </tr>
