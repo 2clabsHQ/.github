@@ -5,9 +5,9 @@
 <a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabsW.png" width="600px" /></a>
 
 <a href="https://www.devdisplay.org/"><h4 align="center">Research & Development of World-Class Technology and Products from First Principles</h4></a>
-</div>
 
 <img align="center" src="/profile/assets/star.png" width="150px" />
+</div>
 
 # Recents Products
 <h5>
