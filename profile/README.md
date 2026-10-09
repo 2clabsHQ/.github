@@ -7,6 +7,8 @@
 <a href="https://www.devdisplay.org/"><h4 align="center">Research & Development of World-Class Technology and Products from First Principles</h4></a>
 </div>
 
+<img align="center" src="/profile/assets/star.png" width="150px" />
+
 # Recents Products
 <h5>
   <table>
