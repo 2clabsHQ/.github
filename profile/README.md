@@ -2,7 +2,7 @@
 
 `Creation Company`<br>
 
-<a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabsW.png" width="700px" /></a>
+<a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabsW.png" width="600px" /></a>
 
 <a href="https://www.devdisplay.org/"><h4 align="center">Research & Development of World-Class Technology and Products from First Principles</h4></a>
 </div>
