@@ -2,10 +2,9 @@
 
 `Creation Company`<br>
 
-<a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabs.png" width="100px" /></a>
+<a href="https://www.2clabs.tech/"><img src="/profile/assets/2CLabsW.png" width="100px" /></a>
 
-<a href="https://www.devdisplay.org/"><h1 align="center">2C Labs</h1></a>
-Research & Development of World-Class Technology and Products from First Principles
+<a href="https://www.devdisplay.org/"><h4 align="center">Research & Development of World-Class Technology and Products from First Principles</h4></a>
 </div>
 
 Recents Products
