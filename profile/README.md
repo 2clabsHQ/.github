@@ -30,11 +30,11 @@
 
 
 # Connect and Create
-<table align="center">
+<table>
      <thead>
          <tr>
             <td><img src="/profile/assets/SocialLogo/X.png" alt="Twitter Logo" width="50"></td>
-            <td><img src="/profile/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td>
+            <!-- <td><img src="/profile/assets/SocialLogo/Discord.png" alt="Discord Logo" width="50"></td> -->
             <td><img src="/profile/assets/SocialLogo/Linkedin.webp" alt="Linkedin Logo" width="50"></td>
             <td><img src="/profile/assets/SocialLogo/Instagram.png" alt="Instagram Logo" width="50"></td>
         </tr>
@@ -42,7 +42,7 @@
      <tbody align="center">
         <tr border: 2px;>
             <td><b><a href="https://x.com/2clabs"> Twitter </a></b></td>
-            <td><b><a href="https://discord.gg/chyt2UgTv5"> Discord </a></b></td>
+            <!-- <td><b><a href="https://discord.gg/chyt2UgTv5"> Discord </a></b></td> -->
             <td><b><a href="https://www.linkedin.com/company/2clabshq/"> Linkedin </a></b></td>
             <td><b><a href="https://www.instagram.com/2clabs/"> Insta. </a></b></td>
         </tr>
